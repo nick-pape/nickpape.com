@@ -1,5 +1,5 @@
 # Site settings
-name: Nick and Katie's Blog
+name: 'Nick and Katie'
 description: 'Nick and Katie\'s Travel Blog'
 
 baseurl: '' # the subpath of your site, e.g. /blog
