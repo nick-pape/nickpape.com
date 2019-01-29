@@ -1,6 +1,6 @@
 # Site settings
 name: 'Nick and Katie'
-description: 'Nick and Katie\'s Travel Blog'
+description: 'Nick and Katie Travel Blog'
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://www.nickpape.com' # the base hostname & protocol for your site
