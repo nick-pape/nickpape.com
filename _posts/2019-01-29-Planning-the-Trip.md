@@ -1,6 +1,12 @@
 ---
-layout: default
-title:  "Planning the Trip!"
+layout: post
+title: "Planning the Trip!"
+date: 2019-01-29
+backgrounds:
+    - https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ftimedotcom.files.wordpress.com%2F2018%2F02%2Ftaking-photo-in-car.jpg&w=800&c=sc&poi=face&q=85
+thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/peak.jpeg
+category: planning
+tags: travel plan maps
 ---
 
 Katie and I are planning on moving to Austin late next month, and we are hoping
