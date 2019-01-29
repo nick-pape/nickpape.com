@@ -5,13 +5,7 @@ home: true
 
 <div class="home">
     <ul class="post-list">
-        {% if site.pagination %}
-        {% assign source = paginator.posts %}
-        {% else %}
-        {% assign source = site.posts %}
-        {% endif %}
-
-        {% for post in source %}
+        {% for post in site.posts %}
         <li>
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
                 <div class="post-list-info">
@@ -20,7 +14,7 @@ home: true
                 </div>
             </a>
 
-            <img src="{{ post.thumb }}" class="post-list-thumb" />
+            <img src="{{post.thumb}}" class="post-list-thumb" />
         </li>
         {% endfor %}
     </ul>

@@ -4,9 +4,10 @@ title: "Planning the Trip!"
 date: 2019-01-29
 backgrounds:
     - https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ftimedotcom.files.wordpress.com%2F2018%2F02%2Ftaking-photo-in-car.jpg&w=800&c=sc&poi=face&q=85
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/peak.jpeg
+thumb: https://www.travelweekly.com/uploadedImages/All_TW_Art/2016/032816/T0328COVERILLO2_HR.jpg?n=3385&amp;width=1540&amp;height=866&amp;mode=crop&amp;Anchor=MiddleCenter
 category: planning
 tags: travel plan maps
+reading_time: "2 minutes"
 ---
 
 Katie and I are planning on moving to Austin late next month, and we are hoping
