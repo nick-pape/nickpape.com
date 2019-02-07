@@ -7,7 +7,7 @@ backgrounds:
 thumb: https://cdn2.picturesofwinter.net/picturesofwinter-cdn/snow-angel-9-s.jpg
 category: pre-trip
 tags: packing
-reading_time: "2 minutes"
+reading_time: "5 minutes"
 ---
 
 So right now we are in the middle of a "Snow Apocalypse" here in Seattle. Bad news.
