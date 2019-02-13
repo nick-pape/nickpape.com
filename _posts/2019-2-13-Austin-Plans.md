@@ -17,11 +17,11 @@ visit over the holidays. We have learned that
 house shopping is difficult and time-consuming!
 So, we decided to put off our search until we have relocated,
 that way we can go visit as many places as we want (and
-actually be able to tour them.
+actually be able to tour them).
 
 Sooo... we rented an AirBnB in Rollingwood for the first six weeks in Austin.
-[It's super nice looking!](https://www.airbnb.com/rooms/7839215?guests=1&adults=1).
-They checked our boxes with a nice, central, private unit with a big yard for us
+[It's super nice looking!](https://www.airbnb.com/rooms/7839215?guests=1&adults=1)
+They checked our boxes with a nice, centrally-located, private unit with a big yard for us
 to take Gage out. Very exciting!
 
 We also booked one-way flights from Austin back to Seattle for the
