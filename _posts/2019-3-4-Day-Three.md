@@ -40,9 +40,9 @@ features of the area -- Sprouting Horn and Thor's Well.
 [Sprouting Horn](https://en.wikipedia.org/wiki/Spouting_Horn)
 just looked like a small spray of ocean dust
 from that vantage point. Once we drove down the hill, and
-walked to within a few yards of it, we were awed at it's raw
+walked to within a few yards of it, we were awed at its raw
 power. It's what's known as an 
-[ocean gyeser](https://en.wikipedia.org/wiki/Geyser).
+[ocean geyser](https://en.wikipedia.org/wiki/Geyser).
 It can also shoot ocean water and foam over 50 feet
 in the air. It happened so often we were able to capture
 a couple of videos.
@@ -80,8 +80,8 @@ was a massive dome over 12 stories tall.
 ![View From Sea Lion Cave](/assets/images/day3/ViewFromSeaLionCave.jpg)
 
 The geography changed drastically again. Approaching Dune City,
-we began to understand the name. To our right, was 30 foot
-hills of sand. To the left, was marshes, lakes, and Canadian
+we began to understand the name. To our right was 30 foot
+hills of sand. To the left was marshes, lakes, and Canadian
 geese. It was reminiscent of the rugged terrain in the
 Norther Tier of Minnesotaa. We briefly to eat our lunch
 at the [Oregon Dunes](https://en.wikipedia.org/wiki/Oregon_Dunes_National_Recreation_Area)
@@ -92,7 +92,7 @@ day use area.
 ![Nick at the Dunes](/assets/images/day3/NickDunes.jpg)
 
 We passed a few other attractions such as Devil's Backbone,
-[McCullough Bride](https://en.wikipedia.org/wiki/Conde_McCullough_Memorial_Bridge),
+[McCullough Bridge](https://en.wikipedia.org/wiki/Conde_McCullough_Memorial_Bridge),
 [Face Rock](https://en.wikipedia.org/wiki/Face_Rock_State_Scenic_Viewpoint) ,
 and finally ended up at
 Kissing Rock in Gold Beach for sunset.
@@ -107,7 +107,7 @@ pretty relieved and tired.
 
 ![Summit](/assets/images/day3/Summit.jpg)
 
-We are some sushi, played some Oregon slots (in the bar!), 
+We ate some sushi, played some Oregon slots (in the bar!), 
 and came home to write this.
 
 ![Sushi](/assets/images/day3/Sushi.jpg)
