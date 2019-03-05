@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 3: "
+title: "Day 3: Sea Lions and Rocks"
 date: 2019-03-04
 thumb: https://calcoastnews.com/images/2015/12/Sea_lion-7.jpg
 category: trip
