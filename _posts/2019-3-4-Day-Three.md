@@ -35,6 +35,8 @@ with a bunch of windy turns. But it was worth it.
 From the outlook, we could see both interesting geographical
 features of the area -- Sprouting Horn and Thor's Well.
 
+![Cape Perpetua](/assets/images/day3/Perpetua.jpg)
+
 [Sprouting Horn](https://en.wikipedia.org/wiki/Spouting_Horn)
 just looked like a small spray of ocean dust
 from that vantage point. Once we drove down the hill, and
@@ -45,16 +47,24 @@ It can also shoot ocean water and foam over 50 feet
 in the air. It happened so often we were able to capture
 a couple of videos.
 
+![Geyser](/assets/images/day3/Geyser.jpg)
+
 Thor's Well wasn't as epic as the name would suggest. From what
 we could see, it seemed to act as a massive drum, loudly
 pounding the rock formation. The waves got for a moment, so
 we decided to leave the area - it had a very morbid sign.
+
+![Sign](/assets/images/day3/Sign.jpg)
 
 After, we headed to over to the
 [Heceta Head Light](https://en.wikipedia.org/wiki/Heceta_Head_Light).
 It's hard to get close to it, we first saw it at
 a small beach area on the waterfront below (which also
 looked like it was in at least a few movies).
+
+![Heceta Head Light](/assets/images/day3/HecetaHeadLight.jpg)
+
+![Heceta Beach](/assets/images/day3/HecetaHead.jpg)
 
 Frustrated, we went to the next attraction,
 [Sea Lion Caves](https://en.wikipedia.org/wiki/Sea_Lion_Caves).
@@ -65,6 +75,10 @@ transferred to another world. Over 300 sea lions
 make their home here at any given time. The cave itself
 was a massive dome over 12 stories tall.
 
+![Sea Lion Cave](/assets/images/day3/SeaLionCave.jpg)
+
+![View From Sea Lion Cave](/assets/images/day3/ViewFromSeaLionCave.jpg)
+
 The geography changed drastically again. Approaching Dune City,
 we began to understand the name. To our right, was 30 foot
 hills of sand. To the left, was marshes, lakes, and Canadian
@@ -73,17 +87,29 @@ Norther Tier of Minnesotaa. We briefly to eat our lunch
 at the [Oregon Dunes](https://en.wikipedia.org/wiki/Oregon_Dunes_National_Recreation_Area)
 day use area.
 
+![Dune Selfie](/assets/images/day3/DuneSelfie.jpg)
+![Katie at the Dunes](/assets/images/day3/KatieDunes.jpg)
+![Nick at the Dunes](/assets/images/day3/NickDunes.jpg)
+
 We passed a few other attractions such as Devil's Backbone,
 [McCullough Bride](https://en.wikipedia.org/wiki/Conde_McCullough_Memorial_Bridge),
 [Face Rock](https://en.wikipedia.org/wiki/Face_Rock_State_Scenic_Viewpoint) ,
 and finally ended up at
 Kissing Rock in Gold Beach for sunset.
 
+![Ocean View](/assets/images/day3/OceanView.jpg)
+
+![Kissing Rock](/assets/images/day3/KissingRock.jpg)
+
 There was a pothole in the 101, so we were forced to take
 a long detour after sunset. Arriving in Brookings, we were
 pretty relieved and tired.
 
+![Summit](/assets/images/day3/Summit.jpg)
+
 We are some sushi, played some Oregon slots (in the bar!), 
 and came home to write this.
+
+![Sushi](/assets/images/day3/Sushi.jpg)
 
 Tomorrow we will explore the Redwoods in Northern California!
