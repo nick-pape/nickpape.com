@@ -2,7 +2,7 @@
 layout: post
 title: "Days 7 and 8: WIndy Path to the City of Angels"
 date: 2019-03-09
-thumb: http://factsforkids.net/wp-content/uploads/2014/05/San-Francisco-Golden-Gate-Bridge-Facts-For-Kids-1200x1200.jpg
+thumb: http://media2.trover.com/T/554da01a8e7cb2280f004357/fixedw_large_4x.jpg
 category: trip
 tags: california "san luis obispo" "los angeles" "hollywood"
 reading_time: "10 minutes"
