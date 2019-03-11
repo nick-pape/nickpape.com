@@ -26,13 +26,20 @@ the scenery. Both Katie and I decided we wanted to stay there
 at some point in the future as they had private gas burning
 outdoor firepits.
 
+![](/assets/images/day7/HalfMoonBay.jpg)
+![](/assets/images/day7/Golf.jpg)
+
 Next stop was the Pigeon Point Lighthouse, which apparently
 also has an HI Hostel attached to it. It was very scenic
 and we were able to get super close to the lighthouse itself.
 
+![](/assets/images/day7/Lighthouse.jpg)
+
 We made a quick stop at Greyhound Rock, which we guess is named
 after the dog breed. It was a little boring - just a big flat
 rock.
+
+![](/assets/images/day7/Greyhound.jpg)
 
 After, we drove into Santa Cruz, CA, the namesake of the
 famous clothing line and home to UC-SC. They had a nice
@@ -41,8 +48,13 @@ and a crab sandwhich. They also had some sea lions that were
 napping right next to our picnic location. One of our favorite
 parts was the $1 parking.
 
+![](/assets/images/day7/SantaCruz.jpg)
+![](/assets/images/day7/Lunch.jpg)
+
 Monterey Bay is an extremely pretty area. We really want
 to go back.
+
+![](/assets/images/day7/Viewpoint.jpg)
 
 After Santa Cruz, the next place we stopped was Cannery Row
 in Monterey, CA. It seemed like a good spot to spend a weekend.
@@ -51,10 +63,12 @@ and a few candy shops. We did a quick wine tasting and ended
 up enjoying it so much we took home a bottle. We also picked
 up some ice cream!
 
+![](/assets/images/day7/Monterey.jpg)
+
 We kept driving to Moss Landing viewing point, where, after a
 few minutes of searching, we spotted several sea otters 
 floating in the water. They are surprisingly cute. It was
-nigh impossible to get Katie back in the car after seeing
+nearly impossible to get Katie back in the car after seeing
 these little critters.
 
 Our favorite stop of the day was the Calla Lily Valley and the
@@ -67,13 +81,27 @@ during low tide - forming some "sand cliffs" that were several
 feet high. We walked along the beach and admired it for a 
 while. The sand was also amazing, it was quite large!
 
+![](/assets/images/day7/KatieCallaLily.jpg)
+![](/assets/images/day7/CallaLilyBridge.jpg)
+![](/assets/images/day7/KatieWalk.jpg)
+![](/assets/images/day7/NickCallaLily.jpg)
+![](/assets/images/day7/Erosion.jpg)
+![](/assets/images/day7/Sand.jpg)
+![](/assets/images/day7/KatieBeach.jpg)
+![](/assets/images/day7/MoreErosion.jpg)
+
+
 It was getting dark, so we pulled over and had our dinner 
 sandwhiches on a cliff somewhere after Big Sur. We could
 hear sea lions while we are (again)!
 
+![](/assets/images/day7/Picnic.jpg)
+
 By this time it was dark and we couldn't find anywhere cheap
 to stay in the area, so we continued on to San Luis Obispo,
 a small college town midway between LA and SF.
+
+![](/assets/images/day7/Gumwall.jpg)
 
 We ended up going out, but struggled to find places that 
 weren't either super clubby, super busy, or filled with
@@ -87,6 +115,8 @@ to stop a little less often. We first stopped at Pismo Beach
 and collected a penny while walking around the beach, 
 videochatting Katie's mom.
 
+![](/assets/images/day7/Pismo.jpg)
+
 We tried to visit Vandenburg Air Force Base, where SpaceX 
 launches its rockets, but I didn't consider it was an active
 military base and has to tourism/information center. We were
@@ -99,6 +129,11 @@ extremely pretty. We stumbled upon our favorite part of the
 day: Ostrichland USA. We fed some Ostriches and continued to
 Solvang.
 
+![](/assets/images/day7/Ostrichland.jpg)
+![](/assets/images/day7/FeedOstrich.jpg)
+![](/assets/images/day7/Wings.jpg)
+![](/assets/images/day7/Ostrich.jpg)
+
 Solvang was an interesting town. All the buildings are 
 constructed in an old-fashioned Danish style - complete
 with random non-functioning windmills. We walked around,
@@ -108,10 +143,16 @@ seemed really nice - we could have spent a while here
 between the wine, cheese, oils, breads, and the picturesque 
 landscape.
 
+![](/assets/images/day7/Solvang.jpg)
+
 Next stop was Stearns Wharf in Santa Barbara. We picked up
 some In-N-Out that was delicious but totally messed up our
 stomachs. We couldn't find much parking on the wharf, so we
 just continued on.
+
+![](/assets/images/day7/InNOut.jpg)
+![](/assets/images/day7/Burger.jpg)
+![](/assets/images/day7/Train.jpg)
 
 Not much later, we drove through the town of Malibu, CA.
 There wasn't a ton to see there. It seemed like rich people
@@ -123,11 +164,15 @@ the city, and tried to get a picture of the Hollywood sign,
 but it was too dark. It was bit of a hike, but totally worth 
 it.
 
+![](/assets/images/day7/Griffith.jpg)
+
 Lastly, we walked along the Hollywood Walk of Fame.
 There were a ton of homeless people and even more people who
 were fairly boujee. We finally settled on a Mexican place, but
 the kitchen had just closed so we ended up getting wings
 at BWW!
+
+![](/assets/images/day7/Star.jpg)
 
 Today we are planning to see other sights, like Santa Monica 
 Pier and Malibu beach.
