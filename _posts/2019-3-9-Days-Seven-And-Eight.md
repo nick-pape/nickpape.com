@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Days 7 and 8: WIndy Path to the City of Angels"
+title: "Days 7 and 8: Windy Path to the City of Angels"
 date: 2019-03-09
 thumb: http://media2.trover.com/T/554da01a8e7cb2280f004357/fixedw_large_4x.jpg
 category: trip
 tags: california "san luis obispo" "los angeles" "hollywood"
 reading_time: "10 minutes"
 ---
-
-**Pictures will be uploaded tonight!**
 
 Day 7 miles: ~300
 
