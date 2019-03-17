@@ -4,7 +4,7 @@ title: "Day 14: Grand Canyon and the City of Broken Dreams"
 date: 2019-03-15
 thumb: https://media.cntraveler.com/photos/571a3d3f3658675c4f787045/master/w_480,c_limit/grand-canyon-man-river-GettyImages-159282662.jpg
 category: trip
-tags: "Grand Canyon" Camping Nevada Utah Arizona Colorado "4 Corners"
+tags: Camping "Grand Canyon" Nevada Utah Arizona Colorado "4 Corners"
 reading_time: "10 minutes"
 ---
 
