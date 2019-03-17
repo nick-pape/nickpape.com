@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 15: Badlands of New Mexico"
-date: 2019-03-13
+date: 2019-03-16
 thumb: https://www.wilderness.net/images/NWPS/BistiDeNaZin.jpg
 category: trip
 tags: "New Mexico" "4 Corners" "Albuquerque" Alamogordo

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Day 13: Hoover Dam and an attempt at camping"
-date: 2019-03-13
+date: 2019-03-14
 thumb: https://www.mikesroadtrip.com/wp-content/uploads/2014/01/Hoover-Dam-Selects-22.jpg
 category: trip
 tags: Nevada "Hoover Dam" Arizona
