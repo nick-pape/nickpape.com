@@ -24,7 +24,7 @@ We stopped at 4 Corners. Nick put limbs
 in 4 different states at same time.
 
 ![](/assets/images/day15/4Corners.jpg)
-![](/assets/images/day15/Nick.jpg)
+![](/assets/images/day15/SplitNick.jpg)
 
 We also got a Navajo Taco that wasn't
 very good.
