@@ -3,7 +3,7 @@
 layout: post
 title: "Day 14: Grand Canyon and the City of Broken Dreams"
 date: 2019-03-13
-thumb: https://betoclock.com/wp-content/uploads/2014/10/row-of-slot-machines.jpg
+thumb: https://media.cntraveler.com/photos/571a3d3f3658675c4f787045/master/w_480,c_limit/grand-canyon-man-river-GettyImages-159282662.jpg
 category: trip
 tags: "Grand Canyon" Camping Nevada Utah
 Arizona Colorado "4 Corners"

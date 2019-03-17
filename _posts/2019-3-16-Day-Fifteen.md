@@ -3,7 +3,7 @@
 layout: post
 title: "Day 15: Badlands of New Mexico"
 date: 2019-03-13
-thumb: http://parkerlab.bio.uci.edu/pictures/photography%20pictures/2009_02_07_select/IMG_9367_tweak.jpg
+thumb: https://www.wilderness.net/images/NWPS/BistiDeNaZin.jpg
 category: trip
 tags: "New Mexico" "4 Corners" "Albuquerque" Alamogordo
 reading_time: "10 minutes"
