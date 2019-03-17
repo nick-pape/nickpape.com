@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Day 15: Badlands of New Mexico"

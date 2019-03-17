@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Day 14: Grand Canyon and the City of Broken Dreams"
